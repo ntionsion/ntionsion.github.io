@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ntionsion.github.io/sitemap.html.gz
+Sitemap: https://ntionsion.github.io/app/sitemap.html.gz
+Sitemap: https://ntionsion.github.io/assets/sitemap.html.gz
+Sitemap: https://ntionsion.github.io/css/sitemap.html.gz
+Sitemap: https://ntionsion.github.io/includes/sitemap.html.gz
+Sitemap: https://ntionsion.github.io/item/sitemap.html.gz
+Sitemap: https://ntionsion.github.io/src/sitemap.html.gz
